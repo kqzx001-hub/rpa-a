@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="TCNyHRRJT0OysyqFvRK6PA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" DesignTimeRectangle="162, 551, 64, 17" DesignTimeScaleFactor="1" FullSelectorArgument="&lt;uia automationid='Grid' name='눈금' role='데이터 그리드' /&gt;&lt;uia automationid='C2471' name='&amp;quot;C&amp;quot; 2471' role='항목' tableCol='3' tableRow='20' /&gt;" FuzzySelectorArgument="&lt;uia automationid='Grid' name='눈금' role='데이터 그리드' /&gt;&lt;uia automationid='C2471' name='&amp;quot;C&amp;quot; 2471' role='항목' check:fulltext='&amp;quot;C&amp;quot; 2471' /&gt;" Guid="3aa5f63d-b030-4957-9949-1bbb17c36f1a" ScopeSelectorArgument="&lt;wnd app='excel.exe' cls='XLMAIN' title='농협_입출금거래내역조회결과_통장1_과제.xls  [호환 모드] - Excel' /&gt;" SearchSteps="Selector, FuzzySelector" Version="V4" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="dac6fa732b5c052e6ed9458cd2a5c709.png" xmlns="">08aEpQFs3NkydYdwxrNsb4Q</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">TypeInto</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

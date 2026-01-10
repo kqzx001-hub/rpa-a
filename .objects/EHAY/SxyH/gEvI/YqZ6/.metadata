@@ -1,0 +1,13 @@
+﻿{
+  "Name": "C 2471",
+  "Type": "Element",
+  "Id": "YqZ6MNYmmECx2da584gY7w",
+  "Reference": "cYydgoQEOUyQMU0U7rYm6g/YqZ6MNYmmECx2da584gY7w",
+  "ParentRef": "cYydgoQEOUyQMU0U7rYm6g/gEvI_r2b-0iGXZS-Q3NJgQ",
+  "Created": "2026-01-06T07:22:13.5905854Z",
+  "Updated": "2026-01-06T07:22:13.5905854Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.10.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
